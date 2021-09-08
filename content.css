@@ -1,0 +1,78 @@
+body{
+    background-image: url('back.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-blend-mode: lighten;
+}
+
+
+h1{
+    color: #ff0000;
+    font-size: 52px;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: .5px;
+    text-shadow: rgb(5, 0, 0) 1px 1px 3px;
+    margin-left: 25px;
+    
+
+}
+
+.what{
+    font-size: 18px;
+    margin-left: 24px;
+    
+}
+
+.hv{
+    color: blue;
+    font-size: 30px;
+    margin-left: 25px;
+}
+
+.second{
+    font-size: 35px;
+    margin-left: 25px;
+    margin-right: 500px;
+}
+
+.p{
+    font-size: 24px;
+    margin-left: 25px;
+    margin-right: 200px;
+    
+}
+.image{
+    
+   float:right;
+    float: top;
+    margin-right: 25px;
+  
+
+
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    
+}
+.nd{
+    color: lightcoral;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+    -webkit-text-stroke-width: .5px;
+    font-size: 35px;
+    margin-left: 25px;
+    
+}
+.pa{
+    font-size: 24px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.vedio{
+    margin-left: 25px;
+}
+    
+
+

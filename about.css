@@ -1,0 +1,47 @@
+h1{
+    color: cornflowerblue;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: .5px;
+    font-size: 52px;
+}
+body{
+    background-image: url('back.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.a{
+    font-size: 24px;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+.mo{
+    font-size: 65px;
+    color: aqua;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+    background-color: red;
+    border: solid black 1px;
+    border-radius: 20px ;
+    height: 70px;
+    width: 850px;
+    padding: 25px;
+    text-shadow: black 1px 2px 3px;
+    box-shadow: black 2px 5px 25px;
+    margin-left: 25px;
+    font-style: bold;
+}
+.list{
+    font-size: 24px;
+    margin-left: 25px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    
+}
+.v{
+    margin-left: 150px;
+    margin-top: 50px;
+   
+}

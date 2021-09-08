@@ -1,0 +1,29 @@
+.info{
+    font-size: 24px;
+    margin-left: 25px;
+}
+.form{
+    margin-left: 225px;
+    font-size: 34px;
+    border: black 2px solid;
+    position:relative;
+    padding: 25px;
+    text-align: center;
+    width: 800px;
+    height: 400px;
+    border-radius: 25px;
+}
+
+.bu{
+    margin-left: 55px;
+    font-size: 34px;
+    background-color: red;
+    width: 191px;
+    height: 70px;
+    box-shadow: black 2px 2px 15px;
+    color: blanchedalmond;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: .5px;
+    text-shadow: black .5px 3px;
+
+}
